@@ -16,10 +16,12 @@ resources used throughout the course.
 
 ## About WaterTAP
 
-WaterTAP is an open-source, Python-based software platform for modeling and technoeconomic assessment
-of water treatment processes and systems. WaterTAP supports the analysis of individual treatment
+The Water treatment Technoeconomic Assessment Platform (WaterTAP) is a Python-based, open-source
+library of water treatment models than can be used to assess water treatment trains through
+simulation, optimization, and other advanced methods. WaterTAP supports the analysis of individual treatment
 technologies as well as complete treatment trains, enabling users to investigate performance,
-cost, energy consumption, and other system-level tradeoffs.
+cost, energy consumption, and other system-level tradeoffs. WaterTAP development is funded by the National
+Alliance for Water Innovation (NAWI), the U.S. Department of Energy’s Energy-Water Desalination Hub.
 
 For more information, visit the [WaterTAP repository](https://github.com/watertap-org/watertap) or the [WaterTAP documentation](https://watertap.readthedocs.io/).
 
@@ -33,7 +35,7 @@ This repository has the following directories:
 * **`data/`:** The data directory can be used to store any data you may have.
 
 To run the WaterTAP models and notebooks, you will need to either:
-* (Recommended) Run them through [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/watertap-org/watertap_academy_fall_2025/main), an online service providing a short-lived temporary sandbox environment on public cloud resources where Jupyter notebooks can be run, free of charge, without having to install any software locally.
+* (Recommended) Run them through Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/watertap-org/watertap_academy_fall_2025/main), an online service providing a short-lived temporary sandbox environment on public cloud resources where Jupyter notebooks can be run, free of charge, without having to install any software locally.
 * Install the [WaterTAP](https://github.com/watertap-org/watertap) software package and its dependencies. For more information on how to do this, see the [WTA 2025 installation guide](https://github.com/watertap-org/watertap_academy_fall_2025/wiki).
 
 
@@ -54,7 +56,7 @@ The 2026 Academy will integrate feedback from WTA 2025 and provide another oppor
 
 ## How to Contact Us
 
-If you have questions about the materials in this repository, questions about WaterTAP Academy, or inquiries about future Academy sessions, please contact the WaterTAP team.
+If you have questions about the materials in this repository, WaterTAP Academy in general, or inquiries about future Academy sessions, please contact the WaterTAP team.
 
 For general questions, contact:
 
@@ -65,7 +67,3 @@ For technical questions or issues, contact:
 **WaterTAP Support:** [watertap-support@lbl.gov](mailto:watertap-support@lbl.gov)
 
 You can also visit the [WaterTAP GitHub organization](https://github.com/watertap-org) and the [WaterTAP documentation](https://watertap.readthedocs.io/) for additional information and resources.
-
-## Acknowledgments
-
-The WaterTAP Academy is part of the broader WaterTAP and National Alliance for Water Innovation (NAWI) effort to make advanced water treatment modeling and technoeconomic analysis more accessible to researchers, engineers, and other members of the water treatment community.
